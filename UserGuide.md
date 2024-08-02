@@ -60,7 +60,7 @@ This is a guide on how to use alphabot and its features.
 
 ### Settings
 
-- Change the ending designation for all your emails e.g. HDB John Tan..., CSA Tim Lee
+- Change the ending designation for all your emails e.g. John, Tim
 
 ![alt text](./Images/image-7.png)
 
