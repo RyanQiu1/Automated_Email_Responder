@@ -4,19 +4,30 @@ This program is designed to classify emails from the public and retrieve appropr
 
 Click [here](UserGuide.md) for the user guide.
 
+
 # How to start
 
-1. Download all the packages in requirements.txt
+1. git clone my repo
+
+2. Ask me for the Models, the ensemble of machine learning models and the NER model, create a folder models and model in flask_backend and llm_local folders respectively.
+
+3. Create a virtual enviroment for flask_backend ```flask-backend ```
+
+4. Create a virtual environment for llm_local folder named ```llm_local```
+
+## Download all the packages in requirements.txt in virtual environment
     
     ### Commands
 
-    1. pip install venv
+    1. Do these for both flask_backend and llm_local
 
-    2. Run the folder .\venv\scripts\activate
+    2. pip install venv
 
-    3. pip install -r requirements.txt
+    3. Run the folder .\venv\scripts\activate
 
-    4. All requirements are installed
+    4. pip install -r requirements.txt
+
+    5. Check All requirements are installed
 
 ## To start up (in one command)
 
