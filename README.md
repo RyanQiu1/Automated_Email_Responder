@@ -4,12 +4,13 @@ This program is designed to classify emails from the public and retrieve appropr
 
 Click [here](UserGuide.md) for the user guide.
 
-
 # How to start
 
-1. git clone my repo
+1. ```git clone``` my repo
 
-2. Ask me for the Models, the ensemble of machine learning models and the NER model, create a folder named ```models``` and ```model``` in flask_backend and llm_local folders respectively. ** For llm model download the gguf from [here](https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF), i am using Meta LLama 3 here.
+2. Ask me for the Models, the ensemble of machine learning models and the NER model, create a folder named ```models``` and ```model``` in flask_backend and llm_local folders respectively. 
+
+> For llm model download the gguf from [here](https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF), i am using Meta LLama 3 here.
 
 3. Create a virtual enviroment for flask_backend ```flask-backend ```
 
