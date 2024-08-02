@@ -6,7 +6,7 @@ This is a guide on how to use alphabot and its features.
 
 - Initial Default Page
 
-![alt text](./Images/image.png)
+![alt text](./Images/image_.png)
 
 
 1. View Latest Unread Emails
@@ -31,38 +31,38 @@ This is a guide on how to use alphabot and its features.
 
 ### View Latest Unread Emails
 
-![alt text](./Images/image-1.png)
+![alt text](./Images/image1.png)
 
 - On click of the email, it will enter a more detailed view. 
 
-![alt text](./Images/image-2.png)
+![alt text](./Images/image2.png)
 
 - At the bottom there is a create draft, a click on it will generate the class using the model and return a response template.
 
-![alt text](./Images/image-3.png)
+![alt text](./Images/image3.png)
 
 - After a while, the category will appear and the response will be given.
     - You can click on save draft if you are happy with the response
     - You can get another prediction if you are not happy with the prediction
     - The feedback button is still a WIP
 
-![alt text](./Images/image-4.png)
+![alt text](./Images/image4.png)
 
 
 ### Edit Draft
 
 - Basically click save changes if you want to edit the draft you have and it will save
 
-![alt text](./Images/image-5.png)
+![alt text](./Images/image5.png)
 
-![alt text](./Images/image-6.png)
+![alt text](./Images/image6.png)
 
 
 ### Settings
 
 - Change the ending designation for all your emails e.g. John, Tim
 
-![alt text](./Images/image-7.png)
+![alt text](./Images/image7.png)
 
 ### Change Model
 
@@ -72,20 +72,20 @@ WIP
 
 - Provide a summary on the email selected using a Local LLM
 
-![alt text](./Images/image-8.png)
+![alt text](./Images/image8.png)
 
-![alt text](./Images/image-9.png)
+![alt text](./Images/image9.png)
 
 
 ### Email Templates
 
 - View all the email templates
 
-![alt text](./Images/image-10.png)
+![alt text](./Images/image10.png)
 
 - Edit the templates in database and save changes
 
-![alt text](./Images/image-11.png)
+![alt text](./Images/image11.png)
 
 
 
