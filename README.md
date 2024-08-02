@@ -2,6 +2,8 @@
 
 This program is designed to classify emails from the public and retrieve appropriate responses from a database. It assists cybersecurity responders by quickly drafting emails, allowing them to focus on more critical tasks without the need to manually read and respond to each email.
 
+Click [here](UserGuide.md) for the user guide.
+
 # How to start
 
 1. Download all the packages in requirements.txt
