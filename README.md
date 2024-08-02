@@ -17,17 +17,17 @@ Click [here](UserGuide.md) for the user guide.
 
 ## Download all the packages in requirements.txt in virtual environment
     
-    ### Commands
+### Commands
 
-    1. Do these for both flask_backend and llm_local
+1. Do these for both flask_backend and llm_local
 
-    2. pip install venv
+2. pip install venv
 
-    3. Run the folder .\venv\scripts\activate
+3. Run the folder .\venv\scripts\activate
 
-    4. pip install -r requirements.txt
+4. pip install -r requirements.txt
 
-    5. Check All requirements are installed
+5. Check all requirements are installed by running python app.py and test.py respectively
 
 ## To start up (in one command)
 
