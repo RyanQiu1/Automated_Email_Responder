@@ -70,20 +70,22 @@ WIP
 
 ### Summarise Email
 
-- Provide a summary on the email selected
+- Provide a summary on the email selected using a Local LLM
 
 ![alt text](./Images/image-8.png)
+
+![alt text](./Images/image-9.png)
 
 
 ### Email Templates
 
 - View all the email templates
 
-![alt text](./Images/image-9.png)
+![alt text](./Images/image-10.png)
 
 - Edit the templates in database and save changes
 
-![alt text](./Images/image-10.png)
+![alt text](./Images/image-11.png)
 
 
 

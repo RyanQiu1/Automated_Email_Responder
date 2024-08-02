@@ -20,10 +20,13 @@ from transformers import AutoTokenizer, AutoModelForTokenClassification, pipelin
 from collections import Counter
 import os
 from joblib import dump, load
+from dotenv import load_dotenv
 
+load_dotenv()
 
+api_key = os.getenv("API_KEY")
 es = Elasticsearch(['https://localhost:9200'], basic_auth=('elastic',
-                   'SSv25TppXxgGOHZq9p5k'),  verify_certs=False)
+                   api_key),  verify_certs=False)
 # Load the tokenizer from the directory containing tokenizer.json
 tokenizer = AutoTokenizer.from_pretrained("Final_NER")
 
