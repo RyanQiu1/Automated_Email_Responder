@@ -50,7 +50,7 @@ Click [here](UserGuide.md) for the user guide.
 
 3. llm_local
 
-    Contains the Local Larger language model, in this case i am using meta llama 3 with 8 billion parameters. To start the local server for this you can run ```python test.py```
+    Contains the Local Large language model, in this case i am using meta llama 3 with 8 billion parameters. To start the local server for this you can run ```python test.py```
 
 
 ## Services Running
