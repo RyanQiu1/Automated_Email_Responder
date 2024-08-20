@@ -22,8 +22,10 @@ Click [here](UserGuide.md) for the user guide.
 
 1. Install Outlook program
 2. Login to Outlook Program
-3. Go to directory Ryan_Project/Front_end/
-4. Run npm start
+3. Ensure LM studio is running (Open LM Studio -> Go to Local Server -> Choose Meta LLAMA 3 -> Start Server)
+5. Go to directory Ryan_Project/Front_end/
+6. Run npm start
+
     
 ### Commands
 
