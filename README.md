@@ -17,6 +17,13 @@ Click [here](UserGuide.md) for the user guide.
 4. Create a virtual environment for llm_local folder named ```llm_local```
 
 ## Download all the packages in requirements.txt in virtual environment
+
+## After Installation
+
+1. Install Outlook program
+2. Login to Outlook Program
+3. Go to directory Ryan_Project/Front_end/
+4. Run npm start
     
 ### Commands
 
