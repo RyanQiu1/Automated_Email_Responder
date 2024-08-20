@@ -4,6 +4,15 @@ This program is designed to classify emails from the public and retrieve appropr
 
 Click [here](UserGuide.md) for the user guide.
 
+# After Installation (Starting in Jason's Laptop)
+
+1. Install Outlook program
+2. Login to Outlook Program
+3. Ensure LM studio is running (Open LM Studio -> Go to Local Server -> Choose Meta LLAMA 3 -> Start Server)
+5. Go to directory Ryan_Project/Front_end/
+6. Run npm start
+
+
 # How to start
 
 1. ```git clone``` my repo
@@ -17,15 +26,6 @@ Click [here](UserGuide.md) for the user guide.
 4. Create a virtual environment for llm_local folder named ```llm_local```
 
 ## Download all the packages in requirements.txt in virtual environment
-
-## After Installation
-
-1. Install Outlook program
-2. Login to Outlook Program
-3. Ensure LM studio is running (Open LM Studio -> Go to Local Server -> Choose Meta LLAMA 3 -> Start Server)
-5. Go to directory Ryan_Project/Front_end/
-6. Run npm start
-
     
 ### Commands
 
